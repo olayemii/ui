@@ -13,7 +13,7 @@ $ npm install --save @teamleader/ui
 or
 
 ```bash
-$ yarn install @teamleader/ui
+$ yarn add @teamleader/ui
 ```
 
 ## Basic usage
